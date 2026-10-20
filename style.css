@@ -13,3 +13,8 @@ li.is_class {
   color: yellow;
   font-size = 20px;
 }
+
+img {
+  height: 100px;
+  width: 100px;
+}
