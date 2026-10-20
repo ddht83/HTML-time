@@ -1,3 +1,7 @@
 <html>
-<h1>Hello</h1>
+  <head></head>
+  <title>Hello</title>
+  <body>
+    <h1>Hello</h1>
+  </body>
 </html>
